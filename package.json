@@ -2,11 +2,10 @@
   "name": "new-front",
   "version": "0.0.0",
   "license": "MIT",
-  "main": "app.js",
+  "angular-cli": {},
   "scripts": {
     "ng": "ng",
     "start": "ng serve",
-    "build": "ng build",
     "test": "ng test",
     "lint": "ng lint",
     "e2e": "ng e2e",
